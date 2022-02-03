@@ -322,16 +322,20 @@
       ""
     ],
     [
-      "fa206155-0a4e-4515-b9a5-293cce73181b",
-      "Analog Frontend"
+      "24d7fc91-abcb-4569-8e76-aba74c7b8bbf",
+      "Input Amplifier 2"
     ],
     [
-      "77352ec6-38d7-4a75-b073-73ecac485023",
+      "ce49f942-6156-4865-828b-a40f6feba933",
       "Input Amplifier 1"
     ],
     [
-      "a12b3cca-9a13-41fe-b30a-c8f5e5519651",
-      "Input Amplifier1"
+      "405c1b2d-7a53-44a6-941c-087c77efd44a",
+      "Input Amplifier 3"
+    ],
+    [
+      "50b748b4-bfe2-4b47-bf74-8fb560acf8b1",
+      "Input Amplifier 4"
     ]
   ],
   "text_variables": {}
