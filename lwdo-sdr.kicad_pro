@@ -336,6 +336,22 @@
     [
       "50b748b4-bfe2-4b47-bf74-8fb560acf8b1",
       "Input Amplifier 4"
+    ],
+    [
+      "177d13d9-9b2e-4b07-87ff-23a6a61e9b1b",
+      "VCXO"
+    ],
+    [
+      "aaae05a7-ce03-4e7a-accb-8dea3964d6ad",
+      "clk_out"
+    ],
+    [
+      "42f77325-d017-40c4-83b8-897f465a98ba",
+      "ref_in"
+    ],
+    [
+      "b1f2a3fd-0146-428d-afd2-4c52a4413b8f",
+      "power_supply"
     ]
   ],
   "text_variables": {}
