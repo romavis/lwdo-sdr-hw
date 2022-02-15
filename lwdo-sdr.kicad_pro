@@ -438,7 +438,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "schematic",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -450,20 +450,32 @@
       ""
     ],
     [
-      "8d768bff-c3eb-46ea-84a5-b9cf9a7d3a81",
-      "Input Amplifier 2"
-    ],
-    [
-      "93d98977-4570-44fd-abcb-79a145eb842f",
-      "Input Amplifier 3"
+      "d26f84ce-09cf-42fc-96be-2f9ccec4a29a",
+      "FPGA"
     ],
     [
       "ce49f942-6156-4865-828b-a40f6feba933",
       "Input Amplifier 1"
     ],
     [
-      "45c687dc-3cd6-49c8-8430-9654ee6ea57c",
+      "dc579980-368b-4bf5-8189-f0b984b9ef09",
+      "Input Amplifier 2"
+    ],
+    [
+      "45deff49-13c3-419b-acdd-4a971b55d2c0",
+      "Input Amplifier 3"
+    ],
+    [
+      "eb351e64-f72a-4d98-8b6c-2f7fe6433e93",
       "Input Amplifier 4"
+    ],
+    [
+      "d9555bc4-8099-43af-87d5-6a781e586fb5",
+      "ADC1"
+    ],
+    [
+      "9548dea3-b43c-4aa4-a7c3-e0288b5927b1",
+      "ADC2"
     ],
     [
       "177d13d9-9b2e-4b07-87ff-23a6a61e9b1b",
@@ -471,15 +483,15 @@
     ],
     [
       "aaae05a7-ce03-4e7a-accb-8dea3964d6ad",
-      "clk_out"
+      "Clock Output"
     ],
     [
       "42f77325-d017-40c4-83b8-897f465a98ba",
-      "ref_in"
+      "Reference Clock Input"
     ],
     [
       "b1f2a3fd-0146-428d-afd2-4c52a4413b8f",
-      "power_supply"
+      "Power Supply"
     ],
     [
       "a09bc8b0-9f2c-46ec-b332-970553d5b598",
