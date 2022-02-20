@@ -3749,10 +3749,10 @@
       (reference "L601") (unit 1) (value "18u") (footprint "Inductor_SMD:L_1812_4532Metric_Pad1.30x3.40mm_HandSolder")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/72996a06-6ba3-477f-b411-14cc6ef23c8f"
-      (reference "Q1201") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q1201") (unit 1) (value "NX7002AK") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/eaeb6f2f-1b48-4b88-8e60-5b846546ec00"
-      (reference "Q1202") (unit 1) (value "DMP3037LSS") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/f015c2ba-c0d0-4b96-9f53-7e30b5c6f43e"
+      (reference "Q1202") (unit 1) (value "PMN48XP") (footprint "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm")
     )
     (path "/50e5996d-1719-4692-b819-593e53110889"
       (reference "R101") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric")
