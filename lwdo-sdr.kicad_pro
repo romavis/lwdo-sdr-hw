@@ -410,6 +410,16 @@
           "name": "Tolerance",
           "url": false,
           "visible": true
+        },
+        {
+          "name": "Mfr",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Mfr PN",
+          "url": false,
+          "visible": false
         }
       ],
       "intersheets_ref_own_page": false,
