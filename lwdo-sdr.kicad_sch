@@ -4354,14 +4354,14 @@
     (path "/42f77325-d017-40c4-83b8-897f465a98ba/0f71ef9f-864a-4476-a0ed-5b6c16a2c30a"
       (reference "U1102") (unit 3) (value "74LVC2G04") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
-    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/d1c3b158-a8b1-4a1e-88cd-b77997d7ced0"
-      (reference "U1201") (unit 1) (value "TL431PK") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/a3847b7e-ca6b-4bb2-826d-5a83b2c1eb35"
+      (reference "U1201") (unit 1) (value "TL431AFDT") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/2f065dc6-b677-49d6-9686-a56d04286151"
-      (reference "U1202") (unit 1) (value "TL431PK") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/3d4150d9-d1a7-4b9f-a1b4-79ebcb942e5f"
+      (reference "U1202") (unit 1) (value "TL431AFDT") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/4fbd1bf0-c97c-49a0-904e-49103787f0e7"
-      (reference "U1203") (unit 1) (value "TL431PK") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+    (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/bc9ff049-b316-4ffc-94dc-df5038b849ca"
+      (reference "U1203") (unit 1) (value "TL431AFDT") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/864dea59-fd13-4329-a53e-5e380eaeb6e0"
       (reference "U1204") (unit 1) (value "MCP1824T-330") (footprint "Package_TO_SOT_SMD:SOT-223-6")
