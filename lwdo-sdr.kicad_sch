@@ -3754,6 +3754,9 @@
     (path "/a09bc8b0-9f2c-46ec-b332-970553d5b598/d50eb843-98d7-489a-92c2-0a32bb70162d"
       (reference "D1301") (unit 1) (value "PESD2USB3U") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
+    (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/36ab21de-a592-4b81-9469-549bd1466958"
+      (reference "D1401") (unit 1) (value "PTVS3V3S1UR") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/0efc2ec8-03ea-45aa-8b48-95d423aff1f6"
       (reference "F1201") (unit 1) (value "1206L050/15") (footprint "Fuse:Fuse_1206_3216Metric")
     )
