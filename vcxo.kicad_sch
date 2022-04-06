@@ -1705,7 +1705,7 @@
     (property "Value" "DOT050V-020.0M" (id 1) (at 172.1994 139.1873 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 170.18 133.35 0)
+    (property "Footprint" "custom-footprints:ConnorWinfield_DOT050" (id 2) (at 170.18 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.conwin.com/datasheets/tx/tx395.pdf" (id 3) (at 170.18 133.35 0)
