@@ -3731,10 +3731,10 @@
       (reference "D1103") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/d6cf1094-4e24-4652-a10b-d2fb90871124"
-      (reference "D1201") (unit 1) (value "PTVS5V0S1UTR") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D1201") (unit 1) (value "PTVS5V0S1UR") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/f59308fc-61e2-4ee2-ad4e-d0be1b496f6c"
-      (reference "D1202") (unit 1) (value "PTVS5V0S1UTR") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D1202") (unit 1) (value "PTVS5V0S1UR") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/3c365a73-5a72-4a99-a1c5-9e68d4cff7cb"
       (reference "D1203") (unit 1) (value "SBR3U40S1F") (footprint "Diode_SMD:D_SOD-123")
