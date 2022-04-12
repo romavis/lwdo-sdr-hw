@@ -1442,8 +1442,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 05dd678a-f9f6-4fa6-9a83-7e29f806ad39)
   )
-  (text "By default:\n- All resistors are 1% 0.125W thick film\n- All non-polarized capacitors are:\n    rated voltage ≥16V\n    ≥1nF: X7R, 20% or better\n    <1nF: C0G, 5% or better\n- All polarized capacitors are:\n    Al-ELCO, 0.01CV|3uA, 2000h@105C, 16V, 20% or better\n\nSpec and Tolerance fields may provide more strict requirements compared to defaults.\nThe ultimate part specification is always given by Mfr, Mfr PN fields in the BOM.\n"
-    (at 203.2 246.38 0)
+  (text "By default:\n- All resistors are 1% 0.125W thick film\n- All non-polarized capacitors are:\n    rated voltage ≥16V\n    ≥1nF: X7R, 20% or better\n    <1nF: C0G, 5% or better\n\nSpec and Tolerance fields may provide more strict requirements compared to defaults.\nThe ultimate part specification is always given by Mfr, Mfr PN fields in the BOM.\n"
+    (at 203.2 240.03 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 1e30d25d-2cea-47d1-a3f4-a3239c6aa2a4)
   )
@@ -2448,8 +2448,8 @@
     (in_bom yes) (on_board yes)
     (uuid d4cb3dc0-269e-472d-be6c-8159acadb537)
     (property "Reference" "TP102" (id 0) (at 273.05 181.102 0))
-    (property "Value" "" (id 1) (at 273.05 182.88 0))
-    (property "Footprint" "" (id 2) (at 278.13 187.96 0)
+    (property "Value" "TestPoint" (id 1) (at 273.05 182.88 0))
+    (property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm" (id 2) (at 278.13 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 278.13 187.96 0)
@@ -3733,13 +3733,13 @@
       (reference "C219") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/cf86c9d9-9f53-4ead-bc03-89b12ff4bfcb"
-      (reference "C220") (unit 1) (value "10u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
+      (reference "C220") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P")
     )
     (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/36960480-e38c-4314-9361-a40581bc7006"
       (reference "C221") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/a45f695a-539d-4af4-a27d-693e87239797"
-      (reference "C222") (unit 1) (value "10u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
+      (reference "C222") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P")
     )
     (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/28fcda05-4b8a-44c0-8233-d087b0cff761"
       (reference "C223") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -3877,10 +3877,10 @@
       (reference "C611") (unit 1) (value "1.5n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/d9555bc4-8099-43af-87d5-6a781e586fb5/8d79534f-b254-4741-a623-7fd2f620925c"
-      (reference "C701") (unit 1) (value "10u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
+      (reference "C701") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P")
     )
     (path "/d9555bc4-8099-43af-87d5-6a781e586fb5/0db57b81-8ec8-46a3-a1d4-3f3d6a40ebfe"
-      (reference "C702") (unit 1) (value "10u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
+      (reference "C702") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P")
     )
     (path "/d9555bc4-8099-43af-87d5-6a781e586fb5/1dba2d6f-8fce-455e-b2e9-16dc1af898fc"
       (reference "C703") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -3901,10 +3901,10 @@
       (reference "C708") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/9548dea3-b43c-4aa4-a7c3-e0288b5927b1/8d79534f-b254-4741-a623-7fd2f620925c"
-      (reference "C801") (unit 1) (value "10u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
+      (reference "C801") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P")
     )
     (path "/9548dea3-b43c-4aa4-a7c3-e0288b5927b1/0db57b81-8ec8-46a3-a1d4-3f3d6a40ebfe"
-      (reference "C802") (unit 1) (value "10u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
+      (reference "C802") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P")
     )
     (path "/9548dea3-b43c-4aa4-a7c3-e0288b5927b1/1dba2d6f-8fce-455e-b2e9-16dc1af898fc"
       (reference "C803") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
