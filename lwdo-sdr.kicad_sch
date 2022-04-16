@@ -4779,10 +4779,10 @@
     (path "/42f77325-d017-40c4-83b8-897f465a98ba/895e2add-5ba2-4ebd-bebc-50db1fdf2aa1"
       (reference "U1101") (unit 3) (value "74LVC2GU04") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
-    (path "/42f77325-d017-40c4-83b8-897f465a98ba/a4c56147-6a11-4eb6-8d91-376535c3d948"
+    (path "/42f77325-d017-40c4-83b8-897f465a98ba/ec0736b1-d5ad-4023-b8b9-87b00892fa0c"
       (reference "U1102") (unit 1) (value "74LVC2G04") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
-    (path "/42f77325-d017-40c4-83b8-897f465a98ba/ec0736b1-d5ad-4023-b8b9-87b00892fa0c"
+    (path "/42f77325-d017-40c4-83b8-897f465a98ba/a4c56147-6a11-4eb6-8d91-376535c3d948"
       (reference "U1102") (unit 2) (value "74LVC2G04") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/42f77325-d017-40c4-83b8-897f465a98ba/0f71ef9f-864a-4476-a0ed-5b6c16a2c30a"

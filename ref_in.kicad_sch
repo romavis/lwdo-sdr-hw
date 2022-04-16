@@ -1246,7 +1246,7 @@
     (pin "2" (uuid 64d9da59-df6d-4459-9376-3702d0944d68))
   )
 
-  (symbol (lib_id "symbols:74LVC2G04") (at 189.23 101.6 0) (unit 1)
+  (symbol (lib_id "symbols:74LVC2G04") (at 189.23 101.6 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a4c56147-6a11-4eb6-8d91-376535c3d948)
     (property "Reference" "U1102" (id 0) (at 191.0715 94.0902 0))
@@ -1427,7 +1427,7 @@
     (pin "5" (uuid 2aaf8c37-4392-4cf0-93c3-ee886309108d))
   )
 
-  (symbol (lib_id "symbols:74LVC2G04") (at 205.74 101.6 0) (unit 2)
+  (symbol (lib_id "symbols:74LVC2G04") (at 205.74 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ec0736b1-d5ad-4023-b8b9-87b00892fa0c)
     (property "Reference" "U1102" (id 0) (at 207.5815 94.0902 0))
