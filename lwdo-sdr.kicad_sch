@@ -4095,9 +4095,6 @@
     (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/2b1efbf8-ea03-4788-ac1a-c787226d339d"
       (reference "C1405") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
-    (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/cc233b6f-2567-4ad3-a490-dc6fed2b9c8b"
-      (reference "C1406") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
-    )
     (path "/4d8f897b-6041-42de-a260-e343002ccde3"
       (reference "D101") (unit 1) (value "WP130WCP/2EGW") (footprint "custom-footprints:WP130WCP")
     )
