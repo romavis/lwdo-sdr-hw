@@ -3666,11 +3666,14 @@
     (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/9f723e04-d6d0-4526-af74-2828ded8c06a"
       (reference "#PWR01416") (unit 1) (value "GND") (footprint "")
     )
+    (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/c0d8fd72-2961-4bbf-961e-110aafbb09bd"
+      (reference "#PWR01417") (unit 1) (value "+3.3VD") (footprint "")
+    )
     (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/186e3aaf-57b7-48bb-bcaf-73ebf2378c42"
-      (reference "#PWR01417") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR01418") (unit 1) (value "GND") (footprint "")
     )
     (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/b55ddf1d-e535-4f81-ae93-e36140093c40"
-      (reference "#PWR01418") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR01419") (unit 1) (value "GND") (footprint "")
     )
     (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/da067c88-e35e-49fc-8301-a0cf831c4885"
       (reference "C201") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -4179,8 +4182,11 @@
     (path "/a09bc8b0-9f2c-46ec-b332-970553d5b598/d50eb843-98d7-489a-92c2-0a32bb70162d"
       (reference "D1301") (unit 1) (value "PESD2USB3UV") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
+    (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/d113fbaf-50c0-4fab-8f29-eb360683ba8a"
+      (reference "D1401") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+    )
     (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/36ab21de-a592-4b81-9469-549bd1466958"
-      (reference "D1401") (unit 1) (value "PTVS3V3S1UR") (footprint "Diode_SMD:Nexperia_CFP3_SOD-123W")
+      (reference "D1402") (unit 1) (value "PTVS3V3S1UR") (footprint "Diode_SMD:Nexperia_CFP3_SOD-123W")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/0efc2ec8-03ea-45aa-8b48-95d423aff1f6"
       (reference "F1201") (unit 1) (value "1206L050/15") (footprint "Fuse:Fuse_1206_3216Metric")
