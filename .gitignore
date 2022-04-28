@@ -39,3 +39,7 @@ fp-info-cache
 # New kicad backups directory?
 lwdo-sdr-backups/
 \#auto_saved_files\#
+
+# Fabrication outputs
+fab/
+fab.zip
