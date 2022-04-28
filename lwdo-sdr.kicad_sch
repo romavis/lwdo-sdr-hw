@@ -4221,43 +4221,43 @@
       (reference "D301") (unit 1) (value "SD12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/ce49f942-6156-4865-828b-a40f6feba933/20947dc5-0448-4fea-a1f7-154a69dfa6bd"
-      (reference "D302") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D302") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/ce49f942-6156-4865-828b-a40f6feba933/9660ad74-65df-41d6-8a78-944328577547"
-      (reference "D303") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D303") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/dc579980-368b-4bf5-8189-f0b984b9ef09/33a6eec2-47f8-4da8-ae0b-3584f8f54022"
       (reference "D401") (unit 1) (value "SD12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/dc579980-368b-4bf5-8189-f0b984b9ef09/20947dc5-0448-4fea-a1f7-154a69dfa6bd"
-      (reference "D402") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D402") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/dc579980-368b-4bf5-8189-f0b984b9ef09/9660ad74-65df-41d6-8a78-944328577547"
-      (reference "D403") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D403") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/45deff49-13c3-419b-acdd-4a971b55d2c0/33a6eec2-47f8-4da8-ae0b-3584f8f54022"
       (reference "D501") (unit 1) (value "SD12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/45deff49-13c3-419b-acdd-4a971b55d2c0/20947dc5-0448-4fea-a1f7-154a69dfa6bd"
-      (reference "D502") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D502") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/45deff49-13c3-419b-acdd-4a971b55d2c0/9660ad74-65df-41d6-8a78-944328577547"
-      (reference "D503") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D503") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/eb351e64-f72a-4d98-8b6c-2f7fe6433e93/33a6eec2-47f8-4da8-ae0b-3584f8f54022"
       (reference "D601") (unit 1) (value "SD12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/eb351e64-f72a-4d98-8b6c-2f7fe6433e93/20947dc5-0448-4fea-a1f7-154a69dfa6bd"
-      (reference "D602") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D602") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/eb351e64-f72a-4d98-8b6c-2f7fe6433e93/9660ad74-65df-41d6-8a78-944328577547"
-      (reference "D603") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D603") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/aaae05a7-ce03-4e7a-accb-8dea3964d6ad/daf58ed3-a996-48d4-b411-d1fb561808dd"
-      (reference "D1001") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D1001") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/aaae05a7-ce03-4e7a-accb-8dea3964d6ad/a89ada89-e145-437f-95b1-10e6b3062140"
-      (reference "D1002") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D1002") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/aaae05a7-ce03-4e7a-accb-8dea3964d6ad/ab621fe9-639a-4bca-a80e-c4c1fb2a0fb5"
       (reference "D1003") (unit 1) (value "PESD5V0X1BT") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -4266,10 +4266,10 @@
       (reference "D1101") (unit 1) (value "PESD5V0X1BT") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/42f77325-d017-40c4-83b8-897f465a98ba/b63d3628-f40a-45e1-964b-3fd48cc48ce9"
-      (reference "D1102") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D1102") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/42f77325-d017-40c4-83b8-897f465a98ba/00ddaca7-a0ae-4293-850b-db822462af28"
-      (reference "D1103") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D1103") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/d6cf1094-4e24-4652-a10b-d2fb90871124"
       (reference "D1201") (unit 1) (value "PTVS5V0S1UR") (footprint "Diode_SMD:Nexperia_CFP3_SOD-123W")
@@ -4287,7 +4287,7 @@
       (reference "D1401") (unit 1) (value "PTVS3V3S1UR") (footprint "Diode_SMD:Nexperia_CFP3_SOD-123W")
     )
     (path "/6c944c46-64bf-4c4b-bb86-1cfbfa0c92c2/d113fbaf-50c0-4fab-8f29-eb360683ba8a"
-      (reference "D1402") (unit 1) (value "BAT54J") (footprint "Diode_SMD:D_SOD-323F")
+      (reference "D1402") (unit 1) (value "BAT54HGW") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/b1f2a3fd-0146-428d-afd2-4c52a4413b8f/0efc2ec8-03ea-45aa-8b48-95d423aff1f6"
       (reference "F1201") (unit 1) (value "1206L050/15") (footprint "Fuse:Fuse_1206_3216Metric")
