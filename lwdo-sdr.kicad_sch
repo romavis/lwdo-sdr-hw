@@ -4745,6 +4745,12 @@
     (path "/d4cb3dc0-269e-472d-be6c-8159acadb537"
       (reference "TP102") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm")
     )
+    (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/70360e87-cd28-463c-b340-4363199e3805"
+      (reference "TP201") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm")
+    )
+    (path "/d26f84ce-09cf-42fc-96be-2f9ccec4a29a/a045f640-8670-46e0-bdbf-d01fcac2a5dc"
+      (reference "TP202") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm")
+    )
     (path "/ce49f942-6156-4865-828b-a40f6feba933/2da3bf0c-1690-48da-88ef-39dd060179b6"
       (reference "TP301") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm")
     )
